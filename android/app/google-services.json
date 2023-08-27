@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459351977709",
+    "project_id": "logist-31ede",
+    "storage_bucket": "logist-31ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459351977709:android:a52d5074b029e074fb26e4",
+        "android_client_info": {
+          "package_name": "com.example.logist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459351977709-2l6u9ub2dot72cps29rcuret6h0eisvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7ipGghRQaUOZ7ZjCyozXpaif-idR4XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459351977709-2l6u9ub2dot72cps29rcuret6h0eisvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
